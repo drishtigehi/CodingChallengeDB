@@ -54,3 +54,13 @@ Demo Video Link
 || myStats/{time\_period} | Returns weekly or monthly statistics for an employee as specified by the {time\_period} |
 || org/count | Returns the total organizations total number of responses for each mood |
 || my/count | Returns the employees number of responses for each mood |
+
+
+Technologies Used:
+
+Backend End
+
+- SQL
+- Spring-Data-JPA
+- Spring-Boot
+
